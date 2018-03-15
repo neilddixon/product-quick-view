@@ -9,6 +9,3 @@ Additional Features:
 - Cater for mobile views (tablet / phone)
 
 
-**Demo**
-
-[Demo](index.html)
